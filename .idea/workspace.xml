@@ -1,0 +1,234 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/DigitImage.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/datasets/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/chars_identify.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/chars_recognize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/chars_segment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/core_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/plate_detect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/plate_judge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/plate_locate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mrcnn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mrcnn/plate_detect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/recognizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/align.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/find_last.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/nms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/sort_points.py" beforeDir="false" />
+    </list>
+    <list id="a5b11990-5cae-44cc-acb9-88eda3ca8faa" name="first commit" comment="">
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/config.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/datasets/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/detector.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/base.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/chars_identify.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/chars_recognize.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/chars_segment.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/core_func.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/plate_detect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/plate_judge.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/easypr/plate_locate.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/mrcnn/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/mrcnn/plate_detect.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/recognizer.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/utils/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/utils/align.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/utils/find_last.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/utils/nms.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/EasyPR-python/lib/utils/sort_points.py" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="hiddenUrls">
+      <set>
+        <option value="https://github.com/Onion224/DigitImage.git" />
+        <option value="https://github.com/SunskyF/EasyPR-python.git" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectId" id="238ekYBeg2imriiaOySUtXW6bBK" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\DigitImage\lib" />
+      <recent name="D:\python\DigitImage\EasyPR-python\output" />
+    </key>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\12526\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="" />
+      <changelist id="a5b11990-5cae-44cc-acb9-88eda3ca8faa" name="first commit" comment="" />
+      <created>1641120284324</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1641120284324</updated>
+      <workItem from="1641120285960" duration="1772000" />
+      <workItem from="1641127714661" duration="1710000" />
+      <workItem from="1641129435687" duration="1981000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1641129334740</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1641129334741</updated>
+    </task>
+    <task id="LOCAL-00002" summary="first commit">
+      <created>1641129367802</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1641129367802</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641129423911">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1641129423911" />
+    <state x="361" y="76" key="#部署" timestamp="1641131255165">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="361" y="76" key="#部署/0.0.1536.834@0.0.1536.834" timestamp="1641131255165" />
+    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1641131348474">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1641131348474" />
+    <state x="638" y="313" key="GitRewordDialog" timestamp="1641130426353">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="638" y="313" key="GitRewordDialog/0.0.1536.834@0.0.1536.834" timestamp="1641130426353" />
+    <state x="635" y="315" key="Github.ShareDialog" timestamp="1641131217646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="635" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1641131217646" />
+    <state width="1493" height="294" key="GridCell.Tab.0.bottom" timestamp="1641129433646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1641129433646" />
+    <state width="1493" height="294" key="GridCell.Tab.0.center" timestamp="1641129433646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1641129433646" />
+    <state width="1493" height="294" key="GridCell.Tab.0.left" timestamp="1641129433646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1641129433646" />
+    <state width="1493" height="294" key="GridCell.Tab.0.right" timestamp="1641129433646">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state width="1493" height="294" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1641129433646" />
+    <state x="270" y="62" key="SettingsEditor" timestamp="1641130906441">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="270" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1641130906441" />
+    <state x="620" y="331" key="VCS.ChangelistChooser" timestamp="1641130461081">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="620" y="331" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1641130461081" />
+    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1641131419648">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1641131419648" />
+    <state x="573" y="179" key="svn4idea.import.options" timestamp="1641131349439">
+      <screen x="0" y="0" width="1536" height="834" />
+    </state>
+    <state x="573" y="179" key="svn4idea.import.options/0.0.1536.834@0.0.1536.834" timestamp="1641131349439" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/DigitImage$demo.coverage" NAME="demo Coverage Results" MODIFIED="1641128416443" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/EasyPR-python" />
+  </component>
+</project>
