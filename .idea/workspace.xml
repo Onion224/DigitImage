@@ -25,20 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="fix some bugs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/datasets/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/detector.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/easypr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/easypr/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mrcnn/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mrcnn/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/mrcnn/plate_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mrcnn/plate_detect.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/recognizer.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils/align.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/align.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils/find_last.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/find_last.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/utils/sort_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/sort_points.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/models/train_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/train_net.py" afterDir="false" />
-    </list>
+    <list default="true" id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="change some detail" />
     <list id="a5b11990-5cae-44cc-acb9-88eda3ca8faa" name="first commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -252,7 +239,14 @@
       <option name="project" value="LOCAL" />
       <updated>1641205939707</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="change some detail">
+      <created>1641212730850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641212730850</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -297,7 +291,8 @@
     <MESSAGE value="first commit" />
     <MESSAGE value="add model" />
     <MESSAGE value="add data" />
-    <option name="LAST_COMMIT_MESSAGE" value="add data" />
+    <MESSAGE value="change some detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="change some detail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
