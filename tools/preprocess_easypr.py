@@ -1,7 +1,3 @@
-# @Time    : 2018/2/9
-# @Author  : fh
-# @File    : preprocess_chars.py
-# @Desc    :
 """
     pre-process easypr data
 """
