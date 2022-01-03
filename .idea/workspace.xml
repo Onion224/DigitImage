@@ -25,8 +25,19 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="add data">
-      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" />
+    <list default="true" id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="fix some bugs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/datasets/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/datasets/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/detector.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/detector.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/easypr/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/easypr/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mrcnn/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mrcnn/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/mrcnn/plate_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/mrcnn/plate_detect.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/recognizer.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/recognizer.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/align.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/align.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/find_last.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/find_last.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/lib/utils/sort_points.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/utils/sort_points.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/train_net.py" beforeDir="false" afterPath="$PROJECT_DIR$/models/train_net.py" afterDir="false" />
     </list>
     <list id="a5b11990-5cae-44cc-acb9-88eda3ca8faa" name="first commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +60,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -252,18 +264,27 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="FILTERS">
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
           </value>
         </entry>
       </map>

@@ -1,7 +1,3 @@
-# @Time    : 2018/2/9
-# @Author  : fh
-# @File    : align.py
-# @Desc    :
 """
     align the plate roi
 """

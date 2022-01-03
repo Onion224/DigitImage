@@ -1,7 +1,3 @@
-# @Time    : 2018/2/9
-# @Author  : fh
-# @File    : find_last.py
-# @Desc    :
 """
     find last checkpoint
 """

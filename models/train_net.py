@@ -1,7 +1,3 @@
-# @Time    : 2018/2/9
-# @Author  : fh
-# @File    : train_net.py
-# @Desc    :
 """
     Train entry
 """
