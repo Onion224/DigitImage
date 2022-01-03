@@ -38,7 +38,7 @@ class PlateDetect(object):
         result = []
         for idx, det in enumerate(res):
             if keep[idx]:
-                result.append(sort_points(cv2.boxPoints(det.plate_pos)))
+                result.append(sort_points.sort_points(cv2.boxPoints(det.plate_pos)))
         return result
 
 
