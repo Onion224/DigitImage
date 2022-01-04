@@ -31,5 +31,5 @@ def recognize(src):
 # method 0
 def _recognize_easypr(src):
     cr = chars_recognize.CharsRecognize()
-    dir_name = find_last(cfg.OUTPUT_DIR, 'chars')
+    dir_name = find_last.find_last(cfg.OUTPUT_DIR, 'chars')
     return cr.charsRecognize(src, str(cfg.OUTPUT_DIR / dir_name / 'models'))
