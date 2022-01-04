@@ -1,7 +1,3 @@
-# @Time    : 2018/2/4
-# @Author  : fh
-# @File    : config.py
-# @Desc    :
 """ config system
 This file specifies default config options for ULPR
 It's learned from py-faster-rcnn

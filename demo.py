@@ -1,7 +1,3 @@
-# @Time    : 2018/2/7
-# @Author  : fh
-# @File    : demo.py
-# @Desc    :
 """
     Give a demo to recognize plate from a raw image
 """

@@ -1,7 +1,3 @@
-# @Time    : 2018/2/7
-# @Author  : fh
-# @File    : func_test.py
-# @Desc    :
 """
     Functional test
 """

@@ -1,7 +1,3 @@
-# @Time    : 2018/2/9
-# @Author  : fh
-# @File    : sort_points.py
-# @Desc    :
 """
     Sort points of quadrilateral
 """
