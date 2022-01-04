@@ -25,10 +25,7 @@
     </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="first commit">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/easypr/plate_detect.py" beforeDir="false" afterPath="$PROJECT_DIR$/lib/easypr/plate_detect.py" afterDir="false" />
-    </list>
+    <list default="true" id="3a8cafa4-1efd-4403-911f-cc39160b3668" name="默认的" comment="change some detail" />
     <list id="a5b11990-5cae-44cc-acb9-88eda3ca8faa" name="first commit" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,6 +47,7 @@
       </GitPushTagMode>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="MIXED" />
   </component>
   <component name="GithubPullRequestsUISettings">
     <option name="hiddenUrls">
@@ -58,6 +56,9 @@
         <option value="https://github.com/SunskyF/EasyPR-python.git" />
       </set>
     </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="238ekYBeg2imriiaOySUtXW6bBK" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -86,7 +87,7 @@
       <recent name="D:\python\DigitImage\EasyPR-python\output" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.core_func">
+  <component name="RunManager" selected="Python.demo">
     <configuration name="core_func" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="DigitImage" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -177,13 +178,14 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.core_func" />
         <item itemvalue="Python.demo" />
+        <item itemvalue="Python.core_func" />
         <item itemvalue="Python.func_test" />
         <item itemvalue="Python.recognizer" />
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration>C:\Users\12526\AppData\Roaming\Subversion</configuration>
   </component>
@@ -199,6 +201,8 @@
       <workItem from="1641127714661" duration="1710000" />
       <workItem from="1641129435687" duration="1981000" />
       <workItem from="1641133717320" duration="13297000" />
+      <workItem from="1641190940190" duration="4724000" />
+      <workItem from="1641195732439" duration="9091000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1641129334740</created>
@@ -228,11 +232,25 @@
       <option name="project" value="LOCAL" />
       <updated>1641147065936</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="add data">
+      <created>1641205939707</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1641205939707</updated>
+    </task>
+    <task id="LOCAL-00006" summary="change some detail">
+      <created>1641212730850</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1641212730850</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
-    <option name="version" value="2" />
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -240,15 +258,9 @@
         <entry key="MAIN">
           <value>
             <State>
-              <option name="FILTERS">
+              <option name="CUSTOM_BOOLEAN_PROPERTIES">
                 <map>
-                  <entry key="branch">
-                    <value>
-                      <list>
-                        <option value="main" />
-                      </list>
-                    </value>
-                  </entry>
+                  <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
             </State>
@@ -256,7 +268,21 @@
         </entry>
       </map>
     </option>
-    <option name="oldMeFiltersMigrated" value="true" />
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="origin/main" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <ignored-roots>
@@ -264,85 +290,9 @@
     </ignored-roots>
     <MESSAGE value="first commit" />
     <MESSAGE value="add model" />
-    <option name="LAST_COMMIT_MESSAGE" value="add model" />
-  </component>
-  <component name="WindowStateProjectService">
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1641129423911">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="223" y="72" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.834@0.0.1536.834" timestamp="1641129423911" />
-    <state x="361" y="76" key="#部署" timestamp="1641131255165">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="361" y="76" key="#部署/0.0.1536.834@0.0.1536.834" timestamp="1641131255165" />
-    <state x="549" y="158" key="FileChooserDialogImpl" timestamp="1641131348474">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="549" y="158" key="FileChooserDialogImpl/0.0.1536.834@0.0.1536.834" timestamp="1641131348474" />
-    <state x="638" y="313" key="GitRewordDialog" timestamp="1641130426353">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="638" y="313" key="GitRewordDialog/0.0.1536.834@0.0.1536.834" timestamp="1641130426353" />
-    <state x="635" y="315" key="Github.ShareDialog" timestamp="1641131217646">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="635" y="315" key="Github.ShareDialog/0.0.1536.834@0.0.1536.834" timestamp="1641131217646" />
-    <state width="1493" height="294" key="GridCell.Tab.0.bottom" timestamp="1641144844107">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="294" key="GridCell.Tab.0.bottom/0.0.1536.834@0.0.1536.834" timestamp="1641144844107" />
-    <state width="1493" height="294" key="GridCell.Tab.0.center" timestamp="1641144844106">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="294" key="GridCell.Tab.0.center/0.0.1536.834@0.0.1536.834" timestamp="1641144844106" />
-    <state width="1493" height="294" key="GridCell.Tab.0.left" timestamp="1641144844106">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="294" key="GridCell.Tab.0.left/0.0.1536.834@0.0.1536.834" timestamp="1641144844106" />
-    <state width="1493" height="294" key="GridCell.Tab.0.right" timestamp="1641144844107">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="294" key="GridCell.Tab.0.right/0.0.1536.834@0.0.1536.834" timestamp="1641144844107" />
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom" timestamp="1641143286522">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.bottom/0.0.1536.834@0.0.1536.834" timestamp="1641143286522" />
-    <state width="1493" height="265" key="GridCell.Tab.1.center" timestamp="1641143286522">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.center/0.0.1536.834@0.0.1536.834" timestamp="1641143286522" />
-    <state width="1493" height="265" key="GridCell.Tab.1.left" timestamp="1641143286522">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.left/0.0.1536.834@0.0.1536.834" timestamp="1641143286522" />
-    <state width="1493" height="265" key="GridCell.Tab.1.right" timestamp="1641143286522">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state width="1493" height="265" key="GridCell.Tab.1.right/0.0.1536.834@0.0.1536.834" timestamp="1641143286522" />
-    <state x="270" y="62" key="SettingsEditor" timestamp="1641145400228">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="270" y="62" key="SettingsEditor/0.0.1536.834@0.0.1536.834" timestamp="1641145400228" />
-    <state x="620" y="331" key="VCS.ChangelistChooser" timestamp="1641130461081">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="620" y="331" key="VCS.ChangelistChooser/0.0.1536.834@0.0.1536.834" timestamp="1641130461081" />
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2" timestamp="1641147081786">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="361" y="150" key="Vcs.Push.Dialog.v2/0.0.1536.834@0.0.1536.834" timestamp="1641147081786" />
-    <state x="467" y="149" width="669" height="536" key="find.popup" timestamp="1641147574290">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="467" y="149" width="669" height="536" key="find.popup/0.0.1536.834@0.0.1536.834" timestamp="1641147574290" />
-    <state x="599" y="208" key="svn.repositoryBrowser" timestamp="1641131419648">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="599" y="208" key="svn.repositoryBrowser/0.0.1536.834@0.0.1536.834" timestamp="1641131419648" />
-    <state x="573" y="179" key="svn4idea.import.options" timestamp="1641131349439">
-      <screen x="0" y="0" width="1536" height="834" />
-    </state>
-    <state x="573" y="179" key="svn4idea.import.options/0.0.1536.834@0.0.1536.834" timestamp="1641131349439" />
+    <MESSAGE value="add data" />
+    <MESSAGE value="change some detail" />
+    <option name="LAST_COMMIT_MESSAGE" value="change some detail" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -361,9 +311,9 @@
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
-    <SUITE FILE_PATH="coverage/DigitImage$recognizer.coverage" NAME="recognizer Coverage Results" MODIFIED="1641142690973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
-    <SUITE FILE_PATH="coverage/DigitImage$demo.coverage" NAME="demo Coverage Results" MODIFIED="1641143901711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/DigitImage$func_test.coverage" NAME="func_test Coverage Results" MODIFIED="1641143286503" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/DigitImage$recognizer.coverage" NAME="recognizer Coverage Results" MODIFIED="1641142690973" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib" />
     <SUITE FILE_PATH="coverage/DigitImage$core_func.coverage" NAME="core_func Coverage Results" MODIFIED="1641144840477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/lib/easypr" />
+    <SUITE FILE_PATH="coverage/DigitImage$demo.coverage" NAME="demo Coverage Results" MODIFIED="1641202204693" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
