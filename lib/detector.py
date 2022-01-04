@@ -1,7 +1,3 @@
-# @Time    : 2018/2/7
-# @Author  : fh
-# @File    : detector.py
-# @Desc    :
 """
     The detector wrapper of ULPR. It will detect the plate roi of a raw image.
 """

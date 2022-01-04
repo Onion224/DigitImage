@@ -1,7 +1,3 @@
-# @Time    : 2018/2/12
-# @Author  : fh
-# @File    : plate_detect.py
-# @Desc    :
 """
     Use mask-rcnn to do plate detect
 """
