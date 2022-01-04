@@ -88,7 +88,7 @@ class CharsSegment(object):
 
         img_contours = img_threshold.copy()
 
-        _, contours, _ = cv2.findContours(img_contours, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
+        contours, _ = cv2.findContours(img_contours, cv2.RETR_EXTERNAL, cv2.CHAIN_APPROX_NONE)
 
         vecRect = []
         for it in contours:
