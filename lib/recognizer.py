@@ -1,7 +1,3 @@
-# @Time    : 2018/2/7
-# @Author  : fh
-# @File    : recognizer.py
-# @Desc    :
 """
     The recognizer wrapper of ULPR. It will recognize the plate license of the plate roi.
     If you want to add a method, add the name in methods and the corresponding function at the end of the file.
