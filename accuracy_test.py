@@ -46,7 +46,7 @@ def accuracy_test(data_dir):
         time0 = time.time()
         results = plate_detect(src)
         for res in results:
-            vis_image = align(src, res)
+            vis_image = align.align(src, res)
             rec_res = chars_recognize(vis_image)
             print("Chars Recognise: ", rec_res)
             if label == rec_res:
