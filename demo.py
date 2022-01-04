@@ -50,7 +50,7 @@ if __name__ == "__main__":
 
     for res in results:
         print("Plate position: \n", res)
-        vis_image = align(src, res)
+        vis_image = align.align(src, res)
         rec_res = chars_recognize(vis_image)
         print("Chars Recognize: ", rec_res)
         if cfg.VIS:
