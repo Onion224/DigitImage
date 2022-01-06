@@ -69,6 +69,7 @@ def accuracy_test(data_dir):
     for pic in not_recognized_names:
         print(pic)
 
+
 if __name__ == "__main__":
     args = parse_args()
 
@@ -76,4 +77,3 @@ if __name__ == "__main__":
         cfg_from_file(args.cfg_file)
     cfg.VIS = False
     accuracy_test(args.data_dir)
-
