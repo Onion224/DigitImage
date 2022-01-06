@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/DigitImage.iml" filepath="$PROJECT_DIR$/.idea/DigitImage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/python_PlateRecogntion.iml" filepath="$PROJECT_DIR$/.idea/python_PlateRecogntion.iml" />
     </modules>
   </component>
 </project>
