@@ -37,7 +37,7 @@ easypr的训练数据和各个模型的训练模型请从[百度云](https://pan
 output文件夹下目录结构是  
 ├─chars_20180210T1038   
 
-├─mrcnn\_20180212T2143
+├─mrcnn_20180212T2143
 
 └─whether_car_20180210T1049  
 

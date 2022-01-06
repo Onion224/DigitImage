@@ -1,3 +1,7 @@
+#-*- codeing = utf-8 -*-
+#@Time :2022/1/3 22:22
+#@Author :Jaiyaun
+#@File :preprocess_easypr.py
 """
     pre-process easypr data
 """
